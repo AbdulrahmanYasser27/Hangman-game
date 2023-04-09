@@ -1,0 +1,5 @@
+amr 6
+amr 0
+ay 1
+ahmed 2
+ahmed 5
